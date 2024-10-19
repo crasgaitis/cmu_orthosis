@@ -1,2 +1,2 @@
-# cmu_orthosis
-OurCS 2024
+# orthotics
+CMU Project
