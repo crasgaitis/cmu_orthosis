@@ -101,3 +101,13 @@ button{
     border-radius: 20px;
     background-color: lightblue
 }
+
+.intro {
+    position: relative;
+    padding-left: 20%;
+    padding-right: 20%
+}
+
+.intro p{
+    margin-bottom: 20px
+}
